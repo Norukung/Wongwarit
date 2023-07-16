@@ -26,15 +26,15 @@
     <input type="password" class="input input-html5-password" >
     <p><input type="submit"></p>
 
+    <a id="video"><strong>Video</strong></a>
+    <p><video controls>
+        <source src= "https://media.istockphoto.com/id/1088138270/th/%E0%B8%A7%E0%B8%B4%E0%B8%94%E0%B8%B5%E0%B9%82%E0%B8%AD/%E0%B8%AB%E0%B8%8D%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B9%82%E0%B8%89%E0%B8%9A%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2-%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B8%8A%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%97%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%84%E0%B8%9B-%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%88%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD-zostera-%E0%B9%80%E0%B8%95%E0%B8%B4%E0%B8%9A%E0%B9%82%E0%B8%95%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%99%E0%B9%89%E0%B9%8D%E0%B8%B2%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5.mp4?s=mp4-640x640-is&k=20&c=nodH7960FZJnGk03n9mFC89rn1ZtDsBhk-27DmsIR64=" type="video/mp4">
+    </video></p>
+    
     <a id="audio"><strong>Audio</strong></a>
     <p><audio controls>
         <source src= "file:///C:/xampp/htdocs/Video/Video1.mp4" type="audio/mp3">
     </audio></p>
-
-    <a id="video"><strong>Video</strong></a>
-    <p><video controls>
-        <source src= "https://rr9---sn-5np5po4v-c33ze.googlevideo.com/videoplayback?expire=1689287931&ei=myiwZICUBOqY6dsPxt-IsA0&ip=191.96.168.218&id=o-AKv4WihbcKa-rHwkVhku6jUDAriRwjU9HNtfO97ZY4-A&itag=18&source=youtube&requiressl=yes&spc=Ul2Sq-oChD3VaimL_cDAybzct8OZMRxen6aTmeuGxg&vprv=1&svpuc=1&xtags=heaudio%3Dtrue&mime=video%2Fmp4&ns=OotzGFp45AWtGF28OJSF-FAO&cnr=14&ratebypass=yes&dur=25.031&lmt=1665290288870561&fexp=24007246,51000011,51000023&c=WEB&txp=5538434&n=FoBle3aVTkWYHw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAK5WrnqkjFfupHk68HCqA3lsBqvh4CPcRC72WkbtV4EmAiBkIupL3edbPxvJtcgKTa1O85a5_SZsrpcB7n1KZ0uuJQ%3D%3D&redirect_counter=1&rm=sn-4g5erd7l&req_id=736e1b437193a3ee&cms_redirect=yes&ipbypass=yes&mh=30&mip=223.24.166.119&mm=31&mn=sn-5np5po4v-c33ze&ms=au&mt=1689266025&mv=m&mvi=9&pcm2cms=yes&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl&lsig=AG3C_xAwRAIgWFUHBGObj7fudQ8Pufbb2f3ZJIn-kL0zfPXNInpIctMCIDI7ZffqBWj5N72B59xjeqw22O5Mz9FRFT_t_sGXtNnq">
-    </video></p>
 
     <a id="table"><strong>ตารางเรียน ชั้น ม.5/10 ภาคเรียนที่ 1/2566 โรงเรียนบางปะกอกวิทยาคม</strong></a>
     <p> </p>
